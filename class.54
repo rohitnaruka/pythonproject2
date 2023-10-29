@@ -1,0 +1,13 @@
+#.write a program and find out the avrage_value.
+
+# my_list=[10,10,10]
+# def find_avrage(my_list):
+#     sum = 0
+#     for i in my_list:
+#         sum=i+sum
+#         0=10+0=10=10+10=20=10+20=30
+#         sum+=i
+#         #0+=10,10+=10,20+=10,30
+#         avrage =sum / len(my_list)
+#     return avrage
+# print(find_avrage(my_list))
